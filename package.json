@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "toobusy-js",
-    "description": "#### api documentation for  [toobusy-js (v0.5.1)](https://github.com/STRML/node-toobusy)  [![npm package](https://img.shields.io/npm/v/npmdoc-toobusy-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toobusy-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toobusy-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toobusy-js)",
+    "description": "#### basic api documentation for  [toobusy-js (v0.5.1)](https://github.com/STRML/node-toobusy)  [![npm package](https://img.shields.io/npm/v/npmdoc-toobusy-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toobusy-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toobusy-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toobusy-js)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "toobusy-js": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.25"
 }

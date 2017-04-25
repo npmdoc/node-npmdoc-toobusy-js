@@ -1,6 +1,6 @@
 # npmdoc-toobusy-js
 
-#### api documentation for  [toobusy-js (v0.5.1)](https://github.com/STRML/node-toobusy)  [![npm package](https://img.shields.io/npm/v/npmdoc-toobusy-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toobusy-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toobusy-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toobusy-js)
+#### basic api documentation for  [toobusy-js (v0.5.1)](https://github.com/STRML/node-toobusy)  [![npm package](https://img.shields.io/npm/v/npmdoc-toobusy-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toobusy-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toobusy-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toobusy-js)
 
 #### Don't fall over when your Node.JS server is too busy. Now without native dependencies!
 
@@ -56,7 +56,8 @@
     "scripts": {
         "test": "mocha tests"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 
